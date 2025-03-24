@@ -1,4 +1,4 @@
-# Web Push Notifications with Firebase
+# WebApp Push Notifications using Firebase
 
 This is a small project I built to try out browser push notifications using Firebase Cloud Messaging (FCM).  
 It lets you send notifications directly to the browser from a Node.js backend.
@@ -16,7 +16,7 @@ I used plain HTML, JavaScript, and a simple Node server to make everything work.
 
 ---
 
-##How to Set It Up
+# How to Set It Up
 
 ### 1. Clone the project
 
